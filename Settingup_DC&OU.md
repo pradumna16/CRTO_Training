@@ -1,6 +1,3 @@
-Perfect idea 🚀 — documenting your full lab setup + what you’re doing is **exactly what a professional red teamer would do**. Not only will this keep your lab reproducible, it’ll also serve as a **portfolio project on GitHub** (great for CRTO prep + jobs).
-
-I’ll structure it as a **GitHub README.md** with explanations of each step, commands, screenshots placeholders, and reasoning.
 
 ---
 
